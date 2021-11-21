@@ -7,4 +7,3 @@ ReactDOM.render(
     document.getElementById('root')
 );
 
-// React.createElement() method takes the three arguments type , props ,children.
